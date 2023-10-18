@@ -1,0 +1,16 @@
+Başlangıç Dizi: [16, 21, 11, 8, 12, 22]
+
+1. Adım (Dizi İkiye Bölünür):
+Sol Yarı Dizi: [16, 21, 11]
+Sağ Yarı Dizi: [8, 12, 22]
+
+2. Adım (Sol ve Sağ Yarı Diziler Sıralanır):
+Sol Yarı Dizi: [11, 16, 21]
+Sağ Yarı Dizi: [8, 12, 22]
+
+3. Adım (İki Sıralı Dizi Birleştirilir):
+Birleştirilmiş Dizi: [8, 11, 12, 16, 21, 22]
+
+Sonuç olarak, verilen dizi Merge Sort algoritması ile sıralandığında sıralanmış hali [8, 11, 12, 16, 21, 22] olacaktır.
+
+Merge Sort'un Big-O gösterimi O(n log n) şeklindedir.
